@@ -1,0 +1,100 @@
+#myname {
+    background-color: #E38B29;
+    padding: 10px 50px 20px 50px;
+    color: aliceblue;
+    font-size: larger;
+    font-size: larger;
+}
+
+
+
+h1 {
+    font-family: Kaushan Script;
+
+
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#education {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+#WORKEXPERIENCE {
+    background-color: #E38B29;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+.work {
+    color: white;
+
+}
+
+#TECHNICALSKILLS {
+    background-color: #E38B29;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+#PERSONALPROJECTS {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+#interests {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+
+
+.card {
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.myimg {
+    width: auto;
+
+}
+
+#CONTACTDETAILS {
+    background-color: #E38B29;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: white;
+
+}
+
+#web {
+    margin-left: 40px;
+    margin-top: 40px;
+}

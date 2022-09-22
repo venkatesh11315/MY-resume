@@ -1,0 +1,32 @@
+.navbar-nav {
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 20px;
+
+}
+
+.nav-item a {
+    color: white;
+    margin-right: 40px;
+}
+
+.nav-item a:hover {
+    color: black;
+}
+
+button {
+    color: white;
+
+}
+
+.hover:hover {
+    color: #2981e3;
+    padding-top: 10px;
+}
+
+.footericon {
+
+    padding-bottom: 20px;
+
+}
